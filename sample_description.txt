@@ -1,0 +1,30 @@
+Acquisition successful.
+--------------------------------------------------
+Pour découvrir les offres VPS d'Hostinger : https://www.hostinger.fr/solene 
+En plus de l'offre Black Friday, profite de réductions supplémentaires avec le code "SOLENE"
+Encore un grand merci à Hostinger 💜
+
+***
+Hey, petite vidéo pour vous montrer comment j'ai codé un script qui trie automatiquement ma boite mail ! On utilise ollama, python, mistral, des vps et bien plus encore ahah
+
+J'espère que vous aurez kiffé la vidéo autant que j'ai kiffé la faire 
+
+📲 insta : @solene.drnx
+📦 repo github : https://github.com/solene-drnx/Beemai... 
+
+Des bisous
+Solène
+
+***
+Times codes : 
+00:00 - Introduction
+00:37 - Hostinger
+01:33 - Data mails
+03:43 - Choisir un LLM
+05:16 - Mistral
+06:07 - Ollama 
+07:21 - VPS 
+10:23 - Appliquer labels
+11:20 - Conclusion
+--------------------------------------------------
+Total length: 747 characters
